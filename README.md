@@ -1,7 +1,3 @@
-Here’s a **comprehensive GitHub README** for your *Smart Ring Conjoint Analysis* project — it’s structured and professional enough for your portfolio:
-
----
-
 # 🧠 Smart Ring Conjoint Analysis — Market Segmentation & Product Design Insights
 
 ### 📊 Choice-Based Conjoint Study using Sawtooth
